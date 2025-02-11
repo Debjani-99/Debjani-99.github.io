@@ -1,1 +1,15 @@
-Welcome to my Portfolio!
+## Folder Structure
+
+Here is the folder structure for the portfolio project:
+
+<details>
+<summary>Click to view folder structure</summary>
+<pre><code>
+/portfolio
+  ├── index.html
+  ├── styles.css
+  ├── script.js
+  ├── assets/
+      ├── images/ (store your images here)
+</code></pre>
+</details>
